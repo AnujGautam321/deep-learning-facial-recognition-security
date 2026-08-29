@@ -34,9 +34,6 @@ This repository contains the complete implementation of a deep learning facial r
 ```
 ├── notebook/
 │   └── facial_recognition_dissertation.ipynb
-├── results/
-│   ├── dissertation_final_results.csv
-│   └── per_class_report.csv
 ├── requirements.txt
 └── README.md
 ```
